@@ -1,4 +1,4 @@
-Write a program Stats3.java that prints three uniform random values between 0 and 1, their average value, and their minimum and maximum value. Use Math.random(), Math.min(), and Math.max().
+//Write a program Stats3.java that prints three uniform random values between 0 and 1, their average value, and their minimum and maximum value. Use Math.random(), Math.min(), and Math.max().
 
 public static void main(String[] args) {
  
