@@ -1,9 +1,4 @@
-package distance;
 
-import java.util.*;
-
-public class distance {
-    
     public static void main(String[] args) {
       
         Scanner input = new Scanner(System.in);
