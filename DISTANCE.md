@@ -1,4 +1,6 @@
 
+Write a program Distance.java that takes two sets of coordinates and prints the Euclidean distance between them.
+
     public static void main(String[] args) {
       
         Scanner input = new Scanner(System.in);
