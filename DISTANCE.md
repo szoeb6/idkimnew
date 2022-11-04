@@ -20,5 +20,4 @@ Write a program Distance.java that takes two sets of coordinates and prints the 
         System.out.println("The Euclidean distance between ("+x1+","+y1+") and ("+x2+","+y2+") is: " + sqrt);
                 
     }
-    
-}
+  
