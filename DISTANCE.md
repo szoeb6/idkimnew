@@ -17,8 +17,7 @@ Write a program Distance.java that takes two sets of coordinates and prints the 
         int sum = diffx + diffy;
         double sqrt = Math.sqrt(sum);
         
-        System.out.print("The Euclidean distance between ("+x1+","+y1+") and ("+x2+","+y2+") is: " + sqrt);
-        System.out.println();
+        System.out.println("The Euclidean distance between ("+x1+","+y1+") and ("+x2+","+y2+") is: " + sqrt);
                 
     }
     
